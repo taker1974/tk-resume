@@ -1,0 +1,19 @@
+Добрый день!		
+Меня зовут Константин Терских. 
+Прошу рассмотреть мое резюме на вакансию «Java - разработчик».
+
+Я опытный разработчик: разрабатывал ПО на .Net и C#, на C++ и на других ЯП и платформах.
+Работаю с Linux, Windows.
+
+Перешёл на Java недавно - около года назад.
+Технологии, с которыми я работаю: 
+Java Core, Stream API, Spring Boot, PostgreSQL, JPA/Hibernate, Jdbc, Redis, Liquibase, 
+JUnit, Mockito, Docker, Kubernates.
+
+Мой GitHub по Java: https://github.com/taker1974.
+
+Буду рад рассказать о себе подробнее.
+С уважением,
+Константин Терских
++7 911 785 4106, 
+ТГ: http://t.me/kostus_online
